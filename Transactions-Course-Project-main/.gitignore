@@ -1,0 +1,9 @@
+env/*
+.idea
+__pycache__
+data1
+data2
+data3
+data1_replicationlog
+data2_replicationlog
+data3_replicationlog
